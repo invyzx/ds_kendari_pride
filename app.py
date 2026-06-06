@@ -468,5 +468,5 @@ st.markdown("---")
 col1, col2, col3 = st.columns(3)
 with col2:
     st.markdown("**🚗 Used Car Price Prediction**")
-    st.markdown("ISB02303402 Data Science | Capstone Project 2025/2026")
+    st.markdown("Data Science - Capstone Project")
     st.markdown("**Kendari Pride**")
